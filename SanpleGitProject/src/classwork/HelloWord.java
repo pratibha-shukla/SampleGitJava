@@ -9,7 +9,11 @@ public class HelloWord {
 		System.out.println("August is best month in a year");
 		
 		
+		
 
+	}
+	public void dog() {
+		System.out.println("dog is barking");
 	}
 
 }
