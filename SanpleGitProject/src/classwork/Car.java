@@ -18,7 +18,7 @@ System.out.println("In driver in indiagate");
 	
 	public void mymethod() {
 		System.out.println("you are so boring by lina");
-		System.out.println("my new car ");
+		System.out.println("my new car is red color");
 		
 
 		System.out.println("my new method in my home");

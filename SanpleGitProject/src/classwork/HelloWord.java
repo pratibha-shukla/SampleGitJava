@@ -14,6 +14,7 @@ public class HelloWord {
 	}
 	public void dog() {
 		System.out.println("dog is barking");
+		System.out.println("dog is red color");
 	}
 
 }
